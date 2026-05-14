@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 Actualmente estoy trabajando en **SL Consulting: Insights & Arquetypos.**
+ 🔭 Actualmente estoy trabajando en **SL HUMANIK: Insights & Archetypes.**
  
  🌱 Aprendiendo nuevas **herramientas**
 
