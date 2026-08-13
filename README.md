@@ -1,14 +1,12 @@
-<div align="center">
+<h1 align="center">JACKSON LONDOÑO</h1>
 
-<h1>JACKSON LONDOÑO</h1>
-
+<p align="center">
 <img src="https://img.shields.io/badge/AI%20SOFTWARE%20DEVELOPER-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=8B5CF6" />
 <img src="https://img.shields.io/badge/SL%20HUMANIK-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=EF4444" />
 <img src="https://img.shields.io/badge/BOGOTÁ,%20COLOMBIA-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=C026D3" />
+</p>
 
-<sub>Frontend Developer · UI/UX Engineering · AI-Assisted Dev</sub>
-
-</div>
+<p align="center"><img src="assets/typing.svg" alt="typing animation" /></p>
 
 <br/>
 
