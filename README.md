@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b2a24,100:2ee676&height=200&section=header&text=Jackson%20Londoño&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20·%20UI/UX%20·%20AI-Assisted%20Dev&descAlignY=58&descSize=18&descColor=2ee676" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:B45309,100:F5A623&height=200&section=header&text=Jackson%20Londoño&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20·%20UI/UX%20·%20AI-Assisted%20Dev&descAlignY=58&descSize=18&descColor=F5A623" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2EE676&center=true&vCenter=true&width=560&lines=Construyendo+interfaces+que+la+gente+disfruta+usar;Frontend+%2B+UI%2FUX+%2B+un+poco+de+todo;Automatización+%C2%B7+Data+%C2%B7+IA+aplicada+al+día+a+día" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=650&height=30&lines=Interfaces+que+la+gente+disfruta+usar;Frontend+%C2%B7+UI%2FUX+%C2%B7+un+poco+de+todo;Automatización+%C2%B7+Data+%C2%B7+IA+aplicada" />
 
 </div>
 
@@ -35,9 +35,9 @@ filosofia:     "el buen diseño es parte del código,
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevJL7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ee676&icon_color=2ee676&text_color=c9d1d9&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevJL7&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=c9d1d9&count_private=true" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DevJL7&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EE676&fire=2EE676&currStreakLabel=2EE676&locale=es" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=DevJL7&theme=transparent&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681&locale=es" width="100%"/>
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ filosofia:     "el buen diseño es parte del código,
 
 **IA & Productividad**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=py,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,vscode" />
 <br/>
 <sub>Copilot · Cursor · Claude · n8n</sub>
 
@@ -88,39 +88,18 @@ filosofia:     "el buen diseño es parte del código,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJL7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ee676&text_color=c9d1d9&langs_count=8" width="46%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJL7&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=F5A623&text_color=c9d1d9&langs_count=8" width="46%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevJL7&theme=react-dark&hide_border=true&bg_color=0d1117&color=2ee676&line=2ee676&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevJL7&theme=minimal&hide_border=true&bg_color=0D1117&color=F5A623&line=F5A623&point=ffffff&area=true&area_color=F5A623" width="90%"/>
 
 </div>
-
-<!--START_SECTION:waka-->
-<!--
-  Opcional: si conectas WakaTime, aquí se puede mostrar tu tiempo de código
-  semanal por lenguaje automáticamente vía GitHub Action.
--->
-<!--END_SECTION:waka-->
 
 <br/>
 
 <h3 align="center">🏆&nbsp; Trofeos</h3>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DevJL7&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</div>
-
-<br/>
-
-<h3 align="center">🐍&nbsp; Actividad de Contribuciones</h3>
-
-<div align="center">
-
-<!--
-  Genera esta animación gratis con la GitHub Action "Snk":
-  https://github.com/Platane/snk — se actualiza sola cada día.
--->
-<img src="https://raw.githubusercontent.com/DevJL7/DevJL7/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=DevJL7&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 <br/>
@@ -131,19 +110,36 @@ filosofia:     "el buen diseño es parte del código,
 ### 📫 Conectemos
 
 <a href="mailto:alexisjacksonlon213@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-2ee676?style=for-the-badge&logo=gmail&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gmail-F5A623?style=for-the-badge&logo=gmail&logoColor=0d1117" />
 </a>
 <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2ee676" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=F5A623" />
 </a>
 <a href="https://tu-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=todoist&logoColor=2ee676" />
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=todoist&logoColor=F5A623" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DevJL7&label=Visitas%20al%20perfil&color=2ee676&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=DevJL7&label=Visitas%20al%20perfil&color=F5A623&style=flat" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ee676,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,100:0d1117&height=100&section=footer" width="100%"/>
+
+<!--
+  ══════════════════════════════════════════════════════════════
+  🐍 EXTRA OPCIONAL: animación de serpiente con tus contribuciones
+  ══════════════════════════════════════════════════════════════
+  No la incluí activa porque necesita configurarse una vez en tu
+  repo (si no, sale como imagen rota / "Error fetching resource").
+
+  Pasos (5 min, una sola vez):
+  1. Crea un repo con el MISMO nombre que tu usuario: DevJL7/DevJL7
+  2. En ese repo, agrega el archivo: .github/workflows/snake.yml
+     con el contenido de la acción oficial: https://github.com/Platane/snk
+  3. Corre el workflow una vez (Actions > Run workflow)
+  4. Cuando termine, agrega esta línea de vuelta a este README:
+
+  <img src="https://raw.githubusercontent.com/DevJL7/DevJL7/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+-->
